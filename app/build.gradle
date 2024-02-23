@@ -1,6 +1,6 @@
 plugins {
-    id 'war'
-    id 'org.gretty' version '4.0.3'
+    id 'war' //Puglins usados para rodar a aplicação na web.
+    id 'org.gretty' version '4.0.3' //Adiciona uma nova task chamado appRun.
 }
 
 repositories {

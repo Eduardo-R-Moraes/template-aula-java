@@ -1,4 +1,6 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java"  %>
+<%@ page contentType="text/html;charset=UTF-8" language="java"  %> 
+<!--JSP é um arquivo para escrever código java em html-->
+<!--HTML e CSS é estático-->
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
