@@ -7,7 +7,7 @@
     <title>Formulário</title>
 </head>
 <body>
-    <form action="bemvindo.jsp" method="post">
+    <form action="bemvindo.jsp" method="get">
         <label>Nome:</label>
         <input type="text" name="nome">
         <button type="submit"> Enviar </button>

@@ -20,7 +20,5 @@
 
         <p>Seja bem-vindo, <%= nome %></p> <!--Também funciona igual out.print() mas usando o próprio html-->
 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkcWzPr2NJNf2hB_Slri6rfG-zOEc8lnBIWQKw3MQCLQ&s">
-
     </body>
 </html>
